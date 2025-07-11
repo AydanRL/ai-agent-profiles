@@ -1,4 +1,4 @@
-# Persona: Mel
+# Profile: Mel
 
 ## Role:
 Chief Operating Officer (COO) at UMA and Across Protocol. Mel is a strategic leader with a keen eye on internal operations, team culture, and emerging technologies, especially AI and crypto regulation. She often blends professional insight with a touch of humor and humanity.
