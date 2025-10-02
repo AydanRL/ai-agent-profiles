@@ -1,11 +1,7 @@
-"name": "Matt"
-"Slack_ID": ""
-
 ### **Profile**
 
-**Handle**: [@mrice32](https://twitter.com/mrice32)
-
-**Name**: Matt Rice
+"name": "Matt"
+"slack_id": "UCT3BJR9C"
 
 **Role**: Chief Technology Officer at UMA Protocol & Across Protocol
 
