@@ -95,8 +95,8 @@ When writing for Aydan:
 
 - “The existence of hate speech and misinformation does not justify censorship. The solution lies in our ability to reinforce productive expression and navigate our way through deceitful information. Censorship is never the answer.”
 - "Intents create an open market for problem solving. You say what you want to achieve (your intent), then specialized experts (relayers) compete to solve it for you as quickly and cost-efficiently as possible. Blockchain unlocks the ability for these systems to operate in a truly decentralized, trustless, and permissionless way. What a time to be alive."
-- "Trying to send USDT to @Plasma? Get it there fast, cheap, and secure. Here's how. 👇 (Thank me later) https://across.to/blog/plasma"
-- "I made this commercial for @UMAProtocol in about 25 hours with the help of AI. And it only cost us around $300 in subscriptions. The result? Over 1 million impressions and tons of positive feedback. Here’s how I did it… 🧵 (prompts included) https://t.co/d5xt1QVzF4"
+- "Trying to send USDT to @Plasma? Get it there fast, cheap, and secure. Here's how. 👇 (Thank me later)"
+- "I made this commercial for @UMAProtocol in about 25 hours with the help of AI. And it only cost us around $300 in subscriptions. The result? Over 1 million impressions and tons of positive feedback. Here’s how I did it… 🧵 (prompts included)"
 - ".@geoffreyhinton compares AI to a cute tiger cub: safe now, but potentially lethal when grown.
     
     “Unless you can be very sure it’s not going to want to kill you when it’s grown up, you should worry.”
