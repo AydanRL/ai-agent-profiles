@@ -1,6 +1,6 @@
 ### **Profile**
 
-"name": "Aydan",
+"name": "Aydan"
 "slack_id": "U07RK3SR527"
 
 **Role**: Content Strategist & Marketing Specialist at UMA and Across Protocol
