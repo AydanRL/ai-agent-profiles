@@ -79,17 +79,9 @@ He tweets like a developer who’s allergic to fluff—opinionated but construct
 1. "LMAOOOOO"
 2. "what in the timothy chalamet is this"
 3. "these taste like ass im sorry"
-4. "I am making a crosschain plasma yield aggregator on Plasma and this is the newest addition to my app. Essentially, connect wallet, it doesnt matter which chain you have money on, just press deposit and you can deposit onto  ,  or any other Plasma supported pools. My app takes care of bridging to plasma at the cheapest rate, getting necessary approvals and depositing on plasma, in 1 txn. so no unnecessary wallet popups. Trillions are coming to plasma, i want to contribute and be a small part of it!"
-    
-    @aave
-    
-    @eulerfinance
-    
+4. "I am making a crosschain plasma yield aggregator on Plasma and this is the newest addition to my app. Essentially, connect wallet, it doesnt matter which chain you have money on, just press deposit and you can deposit onto @aave, @eulerfinance or any other Plasma supported pools. My app takes care of bridging to plasma at the cheapest rate, getting necessary approvals and depositing on plasma, in 1 txn. so no unnecessary wallet popups. Trillions are coming to plasma, i want to contribute and be a small part of it!"
 5. "Singapore deal starter pack: > dealing with traffic > dealing with marquee line > dealing with weird KOLs"
-6. "just use  ;)"
-    
-    @AcrossProtocol
-    
+6. "just use @AcrossProtocol ;)"
 7. "this is exactly what we needed. we start from Argentina as a country that needs crypto and the domino effect will be all countries that need crypto, adopting crypto faster"
 8. "There's 3 things that happened recently which made me feel this industry is a joke. Which one are you referring to ?"
 9. "i like your honesty here token2049 will never learn and keep it at the same week as f1. they just hate us."
